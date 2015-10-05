@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="song_titles">
+        <item>Ryu</item>
+        <item>E Honda</item>
+        <item>Blanka</item>
+        <item>Guile</item>
+        <item>Ken</item>
+        <item>Chun Li</item>
+        <item>Zangief</item>
+        <item>Dhalsim</item>
+    </string-array>
+</resources>
