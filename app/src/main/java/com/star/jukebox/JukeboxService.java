@@ -15,6 +15,7 @@ public class JukeboxService extends Service {
     private MediaPlayer mMediaPlayer;
 
     public JukeboxService() {
+
     }
 
     @Override
